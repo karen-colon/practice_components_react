@@ -5,7 +5,7 @@ import { FourthComponent } from './components/FourthComponent';
 
 function App() {
 
-  const [name, setName] = useState("Karen Steffany Colon Caraballo");
+  const [name, setName] = useState("Wendy Katherinne Gomez Villa");
 
   return (
     <div className="App">
